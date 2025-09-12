@@ -13,9 +13,9 @@ summary: "My team scraped tweets from Twitter to analyse sentiment relating to t
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/toxicimpact/toxicimpacttoxicity.png" class="img-thumbnail" >
-  <img width="200px" src="../img/toxicimpact/toxicimpactmethods.png" class="img-thumbnail" >
-  <img width="200px" src="../img/toxicimpact/toxicimpacttweets.png" class="img-thumbnail" >
+  <img width="400px" src="../img/toxicimpact/toxicimpacttoxicity.png" class="img-thumbnail" >
+  <img width="400px" src="../img/toxicimpact/toxicimpactmethods.png" class="img-thumbnail" >
+  <img width="400px" src="../img/toxicimpact/toxicimpacttweets.png" class="img-thumbnail" >
 </div>
 
 Toxic Impact was a research project I completed in 2023 at the Santa Clara University Media Lab. The aim was to analyse sentiment expressed by players on social media, specifically Twitter, and compare to popular discourse online surrounding the game during a matching period of time. This project consisted of scraping Twitter tweets and comments using specific keywords or tags that relate to the game of interest: Genshin Impact. Sentiment analysis was performed using the Python NLP library, TextBlob. Exploring trends, such as negative (or toxic) sentiment, in response to game developer communications and actions is a developing research topic in the field of Game Studies. It is of particular interest to game developers and publishers as differences in popular discourse and narratives of sentiment in online communities can vary wildly from actual sentiment conveyed on social media.
