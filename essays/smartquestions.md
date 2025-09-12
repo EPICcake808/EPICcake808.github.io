@@ -5,8 +5,8 @@ title: "Questions That Teach vs. Questions That Drain"
 date: 2025-09-11
 published: true
 labels:
-  - Software Engineering
-  - Typescript
+  - Etiquette
+  - Forums
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/redditswamp.png">
