@@ -22,7 +22,7 @@ That’s really the point I want to make here: **tools don’t make software eng
 
 At the code level, AI copilots can autocomplete entire functions, but they don’t fix the fundamental problems. You still need to know *why* something works, what edge cases to test, and how your design will hold up over time.  
 
-I’ve personally spent nights stuck on bugs that no linter or AI tool could explain. Sure, the IDE highlighted an error, but it didn’t tell me that the deeper issue was my misunderstanding of state. Tools accelerate the boring parts, but they can’t substitute the actual thinking that programming demands.  
+I’ve personally spent nights stuck on bugs that no AI tool could explain. Sure, the IDE highlighted an error, but it didn’t tell me that the deeper issue was my misunderstanding of the problem iteself. Tools accelerate the boring parts, but they can’t substitute the actual thinking that programming demands.  
 
 ## In the context of engineering
 
