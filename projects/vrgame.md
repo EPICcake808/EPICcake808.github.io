@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/vrgame/imaginariumsquare.png
 title: "VR Game"
 date: 2023
 published: true
