@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ian Ohari",
     "label": "Student",
-    "picture": "https://github.com/EPICcake808.png",
+    "picture": ../img/professionalpic.jpg,
     "email": "iohari@hawaii.edu",
     "phone": "808-585-1396",
     "website": "https://EPICcake808.github.io",
