@@ -9,7 +9,7 @@ labels:
   - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript/typescript.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/typescript/typescript.jpg">
 
 Coming from a computer engineering background, TypeScript — and even just Object-Oriented Programming (OOP) in general — seemed so alien to me. I was used to doing things the hard way, so to speak. C, C++, and even Assembly felt like home: close to the hardware, where every pointer, register, and memory allocation was under my control. So when I was forced to learn Java and branch away from that comfort zone, I was thrown into completely new waters. And later, when I picked up TypeScript, I realized I wasn’t just learning a new language — I was learning a new way of thinking.  
 
