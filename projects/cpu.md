@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/cpu/squarecpu.png
 title: "Custom 32-Bit ISA CPU"
 date: 2022
 published: true
