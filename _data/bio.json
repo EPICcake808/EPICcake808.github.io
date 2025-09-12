@@ -25,11 +25,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "ARM Assembly", "Python" ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "ARM Assembly", "Python", "Unity", "Blender" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Linux", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Linux", "Git/GitHub", "GCC Compiler" ]
     }
   ],
   "education": [
