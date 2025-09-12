@@ -9,18 +9,18 @@
     "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "EPICcake808", "url": "http://https://github.com/EPICcake808" },
+      { "network": "linkedin", "username": "ianohari", "url": "http://linkedin.com/in/ian-ohari-517562216" },
+      { "network": "twitter", "username": "ianohari", "url": "http://https://github.com/EPICcake808" },
+      { "network": "instagram", "username": "ianohari", "url": "http://https://github.com/EPICcake808" }
     ]
   },
   "interests": [
-    { "name": "Artificial Intelligence" },
-    { "name": "Machine Learning" },
+    { "name": "Artificial Intelligence and Machine Learning" },
+    { "name": "Probabilistic Modeling" },
     { "name": "Computational Fluid Dynamics" },
     { "name": "Virtual Reality" },
-    { "name": "3D Graphics" }
+    { "name": "3D Graphics and Animation" }
   ],
   "skills": [
     {
@@ -39,6 +39,16 @@
       "studyType": "B.S.",
       "startDate": "2019-09",
       "endDate": "2023-06",
+      "courses": [
+      ]
+    },
+
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2024-09",
+      "endDate": "Present",
       "courses": [
       ]
     }
