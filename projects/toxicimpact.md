@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/toxicimpact/ggg.jpg
 title: "ToxicImpact"
 date: 2023
 published: true
