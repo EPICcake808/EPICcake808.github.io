@@ -9,7 +9,7 @@ labels:
   - Communications
   - Research
   - Python
-summary: "My team scraped tweets from Twitter to analyse sentiment relating to the game: Genshin Impact"
+summary: "A sentiment analysis of toxicity within the Genshin Impact Twitter community"
 ---
 
 <div class="text-center p-4">
