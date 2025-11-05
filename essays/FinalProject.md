@@ -28,8 +28,8 @@ By centralizing event organization under one platform, CampusArena helps student
 
 ### Approach
 
-Users can create accounts directly on the site and either join existing clubs or create new ones.  
-Each club will have its own space for organizing events, tracking results, and managing participants.
+Users can create accounts directly on the site and either join existing groups or create new ones.  
+Each group will have its own space for organizing events, tracking results, and managing participants.
 
 - **Tournament formats:** single elimination, double elimination, Swiss, and round robin  
 - **League structures:** ranked ladders with custom MMR or scheduled season-based play  
