@@ -44,8 +44,7 @@ CampusArena combines accessibility and flexibility—supporting everything from 
 
 ### Some mockup pages include:
 
-- Landing / Home Page  
-- Club Directory (browse, join, or create UH clubs)  
+- Landing / Home Page   
 - User Dashboard (matches, standings, and joined leagues)  
 - Organizer Dashboard (event setup and management)  
 - Match Page (scores, chat, and VOD uploads)  
@@ -56,10 +55,13 @@ CampusArena combines accessibility and flexibility—supporting everything from 
 
 ### Use case ideas
 
-- A student joins the UH Esports Club and enters a Super Smash Bros. double elimination tournament with automatic bracket updates.  
-- The Intramural Soccer Club creates a six-week round robin league, with CampusArena automatically calculating standings and tiebreakers.  
-- A Mario Kart league uses AI-assisted scheduling to find match times that fit players’ submitted availability.  
-- Club officers upload match replays to create a highlight reel for the semester.
+- New user goes to the landing page, creates an account, logs in, and joins a UH club to participate in a tournament.  
+- Organizer goes to the landing page, logs in, creates a new league or tournament, and sets its format (e.g., round robin or double elimination).  
+- User joins an existing event, views their upcoming matches, and reports scores once a game is completed.  
+- Organizer reviews match results, verifies winners, and updates standings for all participants.  
+- User uploads a recorded VOD of their match for review or highlight sharing.  
+- Admin monitors ongoing tournaments, manages inappropriate content, and oversees events.  
+
 
 ---
 
@@ -73,4 +75,3 @@ Once the core functionality is implemented, future features could include:
 - Cross-club collaboration for tournaments involving multiple organizations  
 - Mobile notifications for upcoming matches, results, and registration deadlines  
 - Analytics dashboards showing participation trends and win rates  
-- Optional campus integration with UH Student Life or Rec Sports listings  
