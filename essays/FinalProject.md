@@ -35,7 +35,6 @@ Each club will have its own space for organizing events, tracking results, and m
 - **League structures:** ranked ladders with custom MMR or scheduled season-based play  
 - **Matchmaking:** automatically generated through the platform or managed manually by organizers  
 - **Scheduling assistance:** optional AI tools can analyze uploaded schedules or manual inputs to recommend match times  
-- **VOD uploads:** players can upload gameplay recordings or match highlights for later review  
 
 Organizers and admins can oversee events, verify results, and handle reports for fair play.  
 CampusArena combines accessibility and flexibility—supporting everything from casual club tournaments to structured seasonal competitions.
@@ -47,7 +46,7 @@ CampusArena combines accessibility and flexibility—supporting everything from 
 - Landing / Home Page   
 - User Dashboard (matches, standings, and joined leagues)  
 - Organizer Dashboard (event setup and management)  
-- Match Page (scores, chat, and VOD uploads)  
+- Match Page (scores and chat)  
 - Rankings / MMR Ladder Page  
 - Season Overview Page (statistics and leaderboards)
 
@@ -59,7 +58,6 @@ CampusArena combines accessibility and flexibility—supporting everything from 
 - Organizer goes to the landing page, logs in, creates a new league or tournament, and sets its format (e.g., round robin or double elimination).  
 - User joins an existing event, views their upcoming matches, and reports scores once a game is completed.  
 - Organizer reviews match results, verifies winners, and updates standings for all participants.  
-- User uploads a recorded VOD of their match for review or highlight sharing.  
 - Admin monitors ongoing tournaments, manages inappropriate content, and oversees events.  
 
 
@@ -70,8 +68,7 @@ CampusArena combines accessibility and flexibility—supporting everything from 
 Once the core functionality is implemented, future features could include:
 
 - AI-assisted scheduling that analyzes optional user-submitted calendars  
-- A VOD library for storing and sharing match recordings  
-- Advanced ranking systems with skill-based matchmaking and seasonal resets  
+- A VOD library for storing and sharing match recordings    
 - Cross-club collaboration for tournaments involving multiple organizations  
 - Mobile notifications for upcoming matches, results, and registration deadlines  
 - Analytics dashboards showing participation trends and win rates  
