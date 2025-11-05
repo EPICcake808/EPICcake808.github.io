@@ -55,7 +55,7 @@ CampusArena combines accessibility and flexibility—supporting everything from 
 
 ### Use case ideas
 
-- New user goes to the landing page, creates an account, logs in, and joins a UH club to participate in a tournament.  
+- New user goes to the landing page, creates an account, logs in, and joins a group to participate in a tournament.  
 - Organizer goes to the landing page, logs in, creates a new league or tournament, and sets its format (e.g., round robin or double elimination).  
 - User joins an existing event, views their upcoming matches, and reports scores once a game is completed.  
 - Organizer reviews match results, verifies winners, and updates standings for all participants.  
