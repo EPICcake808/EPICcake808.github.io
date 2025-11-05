@@ -20,7 +20,7 @@ Most rely on Discord servers, spreadsheets, or scattered group chats, which lead
 
 **The solution:**  
 **CampusArena** is a web application designed for UH Mānoa’s clubs and extracurricular communities to host, join, and manage leagues and tournaments across both traditional sports and esports.  
-The platform supports multiple competition formats such as round robin, Swiss, and double elimination, while offering tools for automated scheduling, live standings, and optional AI-assisted matchmaking.
+The platform supports multiple competition formats such as round robin, Swiss, and double elimination, while offering tools for optionally AI-assisted automated scheduling, live standings, and algorithmic skill-based matchmaking.
 
 By centralizing event organization under one platform, CampusArena helps students spend less time coordinating logistics and more time participating in the activities they enjoy.
 
