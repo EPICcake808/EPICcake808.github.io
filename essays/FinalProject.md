@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: "Final Project"
+title: "Final Project Idea"
 date: 2025-11-05
 published: true
 labels:
-  - Bootstrap
-  - HTML
+  - Software Engineering
 ---
 
 ## CampusArena
@@ -75,5 +74,3 @@ Once the core functionality is implemented, future features could include:
 - Mobile notifications for upcoming matches, results, and registration deadlines  
 - Analytics dashboards showing participation trends and win rates  
 - Optional campus integration with UH Student Life or Rec Sports listings  
-
----
