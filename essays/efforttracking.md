@@ -8,7 +8,11 @@ labels:
   - Software Engineering
 ---
 
-### Effort Estimation
+## Effort Tracking and Estimation
+
+---
+
+# Effort Estimation
 
 ## How I Estimated Effort
 I have roughly four years of software development experience, primarily in hobby and academic settings rather than professional environments. Over that time, I have seen many common development scenarios play out repeatedly, particularly how bugs, flawed logic, and unforeseen issues can significantly extend timelines. Because of this, I have grown accustomed to planning a 50% time buffer for every major part of a coding project.
@@ -26,7 +30,7 @@ This approach is reflected in my commit history, which shows large bursts of act
 
 ---
 
-### Effort Tracking
+# Effort Tracking
 
 ## Was Tracking Actual Effort Useful?
 Tracking effort was somewhat useful in hindsight. Reviewing my logged effort helped highlight that I am not as efficient as I should be when working on relatively simple coding tasks. These tasks should ideally take very little time, and spending excessive time on them is a weakness—especially in the context of technical interviews, where getting stuck on basic problems can significantly hurt performance.
@@ -40,7 +44,7 @@ When logging effort, I relied largely on memory to approximate how long each tas
 
 ---
 
-### Reflection
+# Reflection
 
 ## What Would You Change Next Time?
 If I were to do this again, I would group issues more aggressively. Breaking issues down further would likely increase the amount of time lost to estimation and tracking overhead. In practice, that overhead competes directly with time that could be spent making actual progress.
@@ -49,5 +53,5 @@ Rather than estimating and logging many small tasks, I believe working on fewer,
 
 ---
 
-### AI Use
+# AI Use
 I did not use any AI tools for effort estimation, effort tracking, or logging during this project.
