@@ -8,10 +8,6 @@ labels:
   - Software Engineering
 ---
 
-## Effort Tracking and Estimation
-
----
-
 ### Effort Estimation
 
 ## How I Estimated Effort
