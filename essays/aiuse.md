@@ -21,8 +21,6 @@ At the same time, I have observed many people fall into the trap of allowing AI 
 
 ## II. Personal Experience with AI in ICS 314
 
-*Note: WOD stands for “Workout of the Day,” which are time-constrained technical or coding interview–style problems.*
-
 ### Experience WODs (e.g., E18)
 
 I used AI to write and integrate code for Experience WODs. Having AI generate most of the code allowed me to focus more on higher-level reasoning and overall problem structure rather than implementation details. Troubleshooting initial AI-generated solutions often took a significant amount of time, but I expect this overhead to decrease as my prompt engineering improves.
